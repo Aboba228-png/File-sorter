@@ -1,1 +1,2 @@
 # File-sorter
+This program was created to slightly automate process of saving graphs made by analysing different silver nanoparticles solutions via photoelectric colorimeter connected to the PC. Different samples needed to be sorted to different folders based on different criteria (temperature at time of synthethis of nanoparticles, pH, duration of synthethis etc.) This program allows to set starting folder from which files will be sorted to customazible folders, if the file name contains set sequence of characters
